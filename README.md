@@ -13,6 +13,7 @@ Welcome to the Home Lab Setup Guide! This project is designed to help you build 
 - Metasploitable2
 - Active Directory
 - Splunk
+- PfSense Firewall
 
 ## Use Cases
 - Practicing penetration testing and Active Directory attacks
